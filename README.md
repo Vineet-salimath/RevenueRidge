@@ -18,27 +18,10 @@ SQL (PostgreSQL)
 Power BI
 Jupyter Notebook
 VS Code
-Project Structure
-RevenueRidge/
-│
-├── data/
-│   ├── raw/                 # Original datasets
-│   └── cleaned/             # Processed datasets
-│
-├── notebooks/
-│   ├── phase1_cleaning.ipynb
-│   ├── phase2_eda.ipynb
-│
-├── sql/
-│   └── queries.sql          # SQL analysis queries
-│
-├── powerbi/
-│   └── dashboard.pbix       # Power BI dashboard
-│
-├── scripts/
-│   └── preprocessing.py
-│
-└── README.md
+
+
+
+
 Features
 Data cleaning and preprocessing pipeline
 Exploratory Data Analysis (EDA)
